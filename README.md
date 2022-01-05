@@ -46,7 +46,7 @@ import 'package:play_store_scraper/play_store_scraper.dart';
 For an example of how to use it, checkout the example/main.dart file  
 ```
 
-You can checkout this example app [Example](https://github.com/varamsky/google_play_store_scraper_dart/blob/master/example/main.dart).
+You can checkout this example app [Example](https://github.com/ankushmishra2903-official/play_store_scraper/blob/main/example/lib/main.dart).
 
 ## Success Results
 
