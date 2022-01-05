@@ -1,13 +1,13 @@
 name: play_store_scraper
 description: A flutter package to scrape data from the Google Play Store.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/ankushmishra2903-official/play_store_scraper
 issue_tracker: https://github.com/ankushmishra2903-official/play_store_scraper/issues
 repository: https://github.com/ankushmishra2903-official/play_store_scraper
 
 environment:
-  sdk: ">=2.15.1 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.15.0 <3.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
