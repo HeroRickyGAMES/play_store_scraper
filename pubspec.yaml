@@ -13,7 +13,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  web_scraper: ^0.1.4
+  web_scraper:
+    git:
+      url: https://github.com/HeroRickyGAMES/web_scraper.git
+      ref: master # branch name
 
 dev_dependencies:
   flutter_test:
